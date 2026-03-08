@@ -1,0 +1,4 @@
+.DS_Store
+*.zip
+anaconda_projects_*
+notebooks:/.DS_Store
