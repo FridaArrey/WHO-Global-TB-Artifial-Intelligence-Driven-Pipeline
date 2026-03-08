@@ -7,7 +7,7 @@
 ##  Project Scale & Precision
 The depth of this analysis covers every facet of the TB landscape, from global financial flows down to the cellular level of diagnostic accuracy.
 
-![Nano Banana](https://raw.githubusercontent.com/cereallarceny/nano-banana/master/nano-banana.png)
+!(https://raw.githubusercontent.com/cereallarceny/nano-banana/master/nano-banana.png)
 *Precision at scale: Analyzing 30 High-Burden Countries with "precision-level" granularity.*
 
 ---
@@ -78,6 +78,6 @@ This framework was developed using the methodology pioneered by **Dr. Frida Arre
 > *"We don't just find more cases; we build the systems prepared to cure them."*
 
 ---
-**Contact:** [Your Name/Organization]  
+**Contact:** [Moutto Life Ventures]  
 **Date:** March 2026  
 **Project:** CARB-X x Gates Foundation Strategic TB Initiative
