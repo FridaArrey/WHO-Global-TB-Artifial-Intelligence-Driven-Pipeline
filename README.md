@@ -4,14 +4,6 @@
 
 ---
 
-##  Project Scale & Precision
-The depth of this analysis covers every facet of the TB landscape, from global financial flows down to the cellular level of diagnostic accuracy.
-
-!(https://raw.githubusercontent.com/cereallarceny/nano-banana/master/nano-banana.png)
-*Precision at scale: Analyzing 30 High-Burden Countries with "precision-level" granularity.*
-
----
-
 ![Status](https://img.shields.io/badge/Project-Strategic_Initiative-blue)
 ![Data](https://img.shields.io/badge/Datasets-16_WHO_Global_Files-green)
 ![Pipeline](https://img.shields.io/badge/Pipeline-9_Notebooks-orange)
