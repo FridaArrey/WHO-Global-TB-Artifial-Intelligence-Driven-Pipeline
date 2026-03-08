@@ -1,0 +1,44 @@
+# WHO Global TB Intelligence Pipeline
+# Requirements — Python 3.9+
+#
+# Install with: pip install -r requirements.txt
+#
+# For Notebook 06 (Computer Vision) PyTorch is required.
+# The install command depends on your hardware — see note below.
+
+# ── Core data & analysis ──────────────────────────────────────────────────────
+pandas>=1.5.0
+numpy>=1.23.0
+scikit-learn>=1.1.0
+
+# ── Visualisation ─────────────────────────────────────────────────────────────
+matplotlib>=3.6.0
+seaborn>=0.12.0
+
+# ── Notebook utilities ────────────────────────────────────────────────────────
+jupyter>=1.0.0
+ipykernel>=6.0.0
+missingno>=0.5.0
+
+# ── Computer vision (Notebook 06) ────────────────────────────────────────────
+# PyTorch — install separately based on your hardware:
+#
+#   CPU only:
+#     pip install torch torchvision
+#
+#   CUDA 11.8 (NVIDIA GPU):
+#     pip install torch torchvision --index-url https://download.pytorch.org/whl/cu118
+#
+#   CUDA 12.1:
+#     pip install torch torchvision --index-url https://download.pytorch.org/whl/cu121
+#
+#   Apple Silicon (M1/M2/M3):
+#     pip install torch torchvision   # MPS backend included automatically
+#
+# See https://pytorch.org/get-started/locally/ for the full selector.
+#
+# Notebook 06 will run on CPU — it is slower but fully functional.
+# First run downloads ~100MB of pretrained ResNet50 weights automatically.
+torch>=1.13.0
+torchvision>=0.14.0
+Pillow>=9.0.0
